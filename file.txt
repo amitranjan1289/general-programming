@@ -1,1 +1,6 @@
 Hello
+===========
+To take code from repository
+git clone https://github.com/amitranjan1289/general-programming.git
+
+
