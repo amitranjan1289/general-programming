@@ -1,5 +1,8 @@
 package com.amit.ds.array;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Array {
 	int[] array = null;
 	int i=0;
@@ -55,7 +58,8 @@ public class Array {
 		array.add(40);
 		array.add(50);
 		array.add(60);
-		array.show();		
+		array.show();	
+		List e=new ArrayList();
    
 	}
 
